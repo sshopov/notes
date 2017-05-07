@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Stoyan&#39;s notes</title>
+    <link>https://sshopov.github.io/notes/about/</link>
+    <description>Recent content in About on Stoyan&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sshopov.github.io/notes/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
