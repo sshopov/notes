@@ -9,8 +9,99 @@
   </url>
   
   <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun162-april_fools_day/</loc>
+    <lastmod>2017-04-01T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://sshopov.github.io/notes/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun157-flight_safety_briefing/</loc>
+    <lastmod>2017-02-24T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun151-thalia/</loc>
+    <lastmod>2017-01-23T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun145-mantras/</loc>
+    <lastmod>2016-12-17T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun139-leslie/</loc>
+    <lastmod>2016-11-09T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun135-simon/</loc>
+    <lastmod>2016-10-08T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun130-volunteers_rule/</loc>
+    <lastmod>2016-09-10T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun106-song_threat/</loc>
+    <lastmod>2016-08-13T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun121-election_day/</loc>
+    <lastmod>2016-08-13T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun127-late_night/</loc>
+    <lastmod>2016-08-13T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun117-once_upon_a_time/</loc>
+    <lastmod>2016-06-04T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun111-fashion_parade/</loc>
+    <lastmod>2016-04-23T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun101-wedding_speech/</loc>
+    <lastmod>2016-02-15T08:00:00+09:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -28,14 +119,15 @@
   </url>
   
   <url>
-    <loc>https://sshopov.github.io/notes/contact/</loc>
+    <loc>https://sshopov.github.io/notes/tags/parkrun/</loc>
+    <lastmod>2017-05-06T23:51:01+09:30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sshopov.github.io/notes/tags/parkrun/</loc>
-    <lastmod>2017-05-06T23:51:01+09:30</lastmod>
+    <loc>https://sshopov.github.io/notes/tags/parkurn/</loc>
+    <lastmod>2017-02-24T08:00:00+09:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

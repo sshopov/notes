@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parkurn on Stoyan&#39;s notes</title>
+    <link>https://sshopov.github.io/notes/tags/parkurn/</link>
+    <description>Recent content in Parkurn on Stoyan&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2017 08:00:00 +0930</lastBuildDate>
+    
+	<atom:link href="https://sshopov.github.io/notes/tags/parkurn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parkrun 157 - pre-flight safety briefing</title>
+      <link>https://sshopov.github.io/notes/post/parkrun157-flight_safety_briefing/</link>
+      <pubDate>Fri, 24 Feb 2017 08:00:00 +0930</pubDate>
+      
+      <guid>https://sshopov.github.io/notes/post/parkrun157-flight_safety_briefing/</guid>
+      <description>Welcome aboard parkrun flight 157. I am your captain Stoyan and our lovely cabin crew is Sharon, Jonathan, Kiora, Jordan, Joy, Karen [cabin crew please line up and wave when your name is called]. You too can join our crew, simply sign up when you scan your barcode at the end.
+Today we are travelling to there and back at altitude of 360m and your flight time depends on how much you are willing to suffer.</description>
+    </item>
+    
+  </channel>
+</rss>
