@@ -6,10 +6,20 @@
     <description>Recent content in Parkrun on Stoyan&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2017 23:51:01 +0930</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 08:00:00 +0930</lastBuildDate>
     
 	<atom:link href="https://sshopov.github.io/notes/tags/parkrun/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parkun 175 - R2D2 drops in</title>
+      <link>https://sshopov.github.io/notes/post/parkrun175-starwars/</link>
+      <pubDate>Sat, 01 Jul 2017 08:00:00 +0930</pubDate>
+      
+      <guid>https://sshopov.github.io/notes/post/parkrun175-starwars/</guid>
+      <description>For parkrun 175 Hugo built an R2D2 look-a-like Lego Mindstorms robot and I programmed it to help deliver the speech. Here is how it went:
+Me: [madly pulling out the battery to do a hard reset after the program didn&amp;rsquo;t want to exit from the morning&amp;rsquo;s test run]  Hard rest R2D2   Me: Welcome I found this droid on the way to parkrun and it says it has an urgent message for us.</description>
+    </item>
     
     <item>
       <title>Parkrun 167 - Cheers</title>
@@ -32,6 +42,16 @@ These two lines popped into my head recently and I thought this is just like par
       <description>Good morning and welcome to parkrun (what number are we up to?)!
 I am feeling a bit lazy this morning, so I thought I&amp;rsquo;d be a director instead of a runner. So lazy in fact, that I thought I&amp;rsquo;d oursource as many responsibilities as possible.
 Please raise your hand if you are a regular parkrunner? Please raise your hand if you are a first timer or a visitor? Welcome! Regular parkrunners, can you please adopt a first timer or a visitor after the speech.</description>
+    </item>
+    
+    <item>
+      <title>Parkrun 157 - pre-flight safety briefing</title>
+      <link>https://sshopov.github.io/notes/post/parkrun157-flight_safety_briefing/</link>
+      <pubDate>Fri, 24 Feb 2017 08:00:00 +0930</pubDate>
+      
+      <guid>https://sshopov.github.io/notes/post/parkrun157-flight_safety_briefing/</guid>
+      <description>Welcome aboard parkrun flight 157. I am your captain Stoyan and our lovely cabin crew is Sharon, Jonathan, Kiora, Jordan, Joy, Karen [cabin crew please line up and wave when your name is called]. You too can join our crew, simply sign up when you scan your barcode at the end.
+Today we are travelling to there and back at altitude of 360m and your flight time depends on how much you are willing to suffer.</description>
     </item>
     
     <item>

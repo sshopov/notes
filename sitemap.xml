@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sshopov.github.io/notes/post/parkrun175-starwars/</loc>
+    <lastmod>2017-07-01T08:00:00+09:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://sshopov.github.io/notes/post/parkrun167-cheers/</loc>
     <lastmod>2017-05-06T23:51:01+09:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -120,28 +127,21 @@
   
   <url>
     <loc>https://sshopov.github.io/notes/tags/parkrun/</loc>
-    <lastmod>2017-05-06T23:51:01+09:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sshopov.github.io/notes/tags/parkurn/</loc>
-    <lastmod>2017-02-24T08:00:00+09:30</lastmod>
+    <lastmod>2017-07-01T08:00:00+09:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sshopov.github.io/notes/</loc>
-    <lastmod>2017-05-06T23:51:01+09:30</lastmod>
+    <lastmod>2017-07-01T08:00:00+09:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sshopov.github.io/notes/tags/</loc>
-    <lastmod>2017-05-06T23:51:01+09:30</lastmod>
+    <lastmod>2017-07-01T08:00:00+09:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
